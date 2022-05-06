@@ -8,11 +8,15 @@
 
 ---
 
-- 🌱 I’m currently learning **React, Vue, Angular**
-
-- 💬 Ask me about **PHP**
-
-- 📫 How to reach me **Bargues.irene@gmail.com**
+```javascript
+const Irene = {
+  pronouns: "she" | "her",
+  code: [HTML, CSS, PHP, Javascript, Python, Java],
+  tools: [React, Figma],
+ 
+ challenge: "I am learning react, Vue and Angular"
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
