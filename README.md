@@ -1,4 +1,6 @@
-<p align="right"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="right">
+  <img  width=15%" src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'><br>
+  <img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ### Hi , I'm Irene <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
