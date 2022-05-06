@@ -2,6 +2,8 @@
 
 <h3 align="center">A passionate frontend developer from Valencia, Spain</h3>
 
+---
+
 - 🌱 I’m currently learning **React, Vue, Angular**
 
 - 💬 Ask me about **PHP**
