@@ -1,4 +1,6 @@
-### Hi 👋, I'm Irene 👋
+<p align="right"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+
+### Hi , I'm Irene <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <h3 align="center">A passionate frontend developer from Valencia, Spain</h3>
 
