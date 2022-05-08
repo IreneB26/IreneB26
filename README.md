@@ -14,7 +14,7 @@ const Irene = {
   code: [HTML, CSS, PHP, Javascript, Python, Java],
   tools: [React, Figma],
  
- challenge: "I am learning react, Vue and Angular"
+ challenge: "I am learning React"
 }
 ```
 
